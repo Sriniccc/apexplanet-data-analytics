@@ -158,7 +158,7 @@ The dataset contains transactional sales information including customer details,
 
 # 👨‍💻 Author
 
-**Srinic**
+**Srinivas**
 
 Computer Science Engineering Student  
 AI & Machine Learning Enthusiast | Data Analytics | Python | SQL
